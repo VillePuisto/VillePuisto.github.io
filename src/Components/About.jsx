@@ -18,7 +18,7 @@ import React from "react";
  */
 import image from "../images/roman.jpg";
 
-const imageAltText = "mountain background";
+const imageAltText = "mountain sun background";
 
 /**
  * Sort description that expands on your title on the Home component.
